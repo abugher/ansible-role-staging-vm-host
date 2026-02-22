@@ -1,2 +1,2 @@
 ---
-#- include_task:                 '../tasks/'
+#- include_task:                 'tasks/common/'
